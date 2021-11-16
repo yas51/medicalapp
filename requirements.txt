@@ -1,4 +1,4 @@
-flask
+flask==1.1.2
 flask-login
 flask-sqlalchemy
 gunicorn
@@ -16,8 +16,4 @@ cloudpickle
 pickeshare
 unicode
 json5
-
-python
-
-
 
